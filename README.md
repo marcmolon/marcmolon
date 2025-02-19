@@ -1,4 +1,4 @@
-<h1 align="left">Hi!, My Name is Marc👋</h1>
+<h1 align="left">Hi! My Name is Marc👋</h1>
 
 ###
 
@@ -14,15 +14,15 @@
 
 ###
 
-<h3 align="left">🙋‍♂️ About me :</h3>
+<h2 align="left">🙋‍♂️ About me :</h2>
 
 ###
 
-<p align="left">💻- 3rd Year Computer Science Student at Kolehiyo ng Subic<br>📝- Likes Editing<br>🍽️- Likes Cooking</p>
+<p align="left">💻- 3rd Year Computer Science Student at Kolehiyo ng Subic<br>📝 -Likes Editing<br>🍽️- Likes Cooking</p>
 
 ###
 
-<h2 align="left">💻Tech Stack:</h2>
+<h2 align="left">💻 Tech Stack:</h2>
 
 ###
 
@@ -48,7 +48,7 @@
 
 ###
 
-<h2 align="left">📊Github Stats:</h2>
+<h2 align="left">📊 Github Stats:</h2>
 
 ###
 
