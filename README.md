@@ -18,7 +18,7 @@
 
 ###
 
-<h3 align="left">💻- 3rd Year Computer Science Student at Kolehiyo ng Subic<br>📝 - Likes Editing<br>🍽️- Likes Cooking</h3>
+<p align="left">💻- 3rd Year Computer Science Student at Kolehiyo ng Subic<br>📝- Likes Editing<br>🍽️- Likes Cooking</p>
 
 ###
 
