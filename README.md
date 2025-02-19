@@ -14,11 +14,11 @@
 
 ###
 
-<h2 align="left">🙋‍♂️ About me :</h2>
+<h3 align="left">🙋‍♂️ About me :</h3>
 
 ###
 
-<h5 align="left">💻- 3rd Year Computer Science Student at Kolehiyo ng Subic<br>📝 - Likes Editing<br>🍽️- Likes Cooking</h5>
+<h3 align="left">💻- 3rd Year Computer Science Student at Kolehiyo ng Subic<br>📝 - Likes Editing<br>🍽️- Likes Cooking</h3>
 
 ###
 
